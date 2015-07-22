@@ -1,0 +1,1 @@
+Dapper has [moved to github](https://github.com/StackExchange/dapper-dot-net). See you there.
